@@ -1,0 +1,3251 @@
+user_id,product_name
+1001,Notebook
+1001,Controle Xbox
+1001,Roteador Wi-Fi
+1001,Caixa de Som
+1002,Webcam HD
+1002,Controle Xbox
+1002,Cadeira Gamer
+1002,Nobreak
+1002,Cabo Lightning
+1002,Teclado Mecânico
+1003,Fone de Ouvido
+1003,Notebook
+1003,Teclado Mecânico
+1003,Tablet
+1003,Smartwatch
+1003,Carregador Veicular
+1003,Memória RAM
+1003,Controle Xbox
+1003,Teclado Bluetooth
+1004,Óculos VR
+1004,Estabilizador
+1004,Volante Gamer
+1004,Cabo Lightning
+1004,SSD 500GB
+1004,Smartwatch
+1005,Placa de Vídeo
+1005,Roteador Wi-Fi
+1005,Smartphone
+1005,Pen Drive 64GB
+1005,Volante Gamer
+1005,Scanner
+1005,Hub USB
+1005,Controle Xbox
+1005,HD Externo
+1005,Tablet
+1006,Cadeira Gamer
+1006,Teclado Mecânico
+1006,Ring Light
+1006,Mousepad Gamer
+1006,Adaptador HDMI
+1006,Volante Gamer
+1006,Memória RAM
+1006,Impressora
+1007,Controle PS5
+1007,Base Refrigerada
+1007,Cabo Lightning
+1008,Ring Light
+1008,Teclado Mecânico
+1008,Teclado Bluetooth
+1008,Gamepad
+1009,Switch HDMI
+1009,Controle Bluetooth
+1009,Óculos VR
+1009,Mouse Sem Fio
+1009,Fone de Ouvido
+1009,Filtro de Linha
+1009,Smartwatch
+1009,Gamepad
+1010,Smartwatch
+1010,Cadeira Gamer
+1010,Ring Light
+1010,Roteador Wi-Fi
+1011,Case HD
+1011,Microfone
+1011,Pen Drive 64GB
+1011,Controle Xbox
+1011,Adaptador HDMI
+1011,Tablet
+1011,Filtro de Linha
+1011,Roteador Wi-Fi
+1011,Mouse Sem Fio
+1011,Memória RAM
+1012,Cabo Lightning
+1012,Controle PS5
+1012,Caixa de Som
+1012,Pen Drive 64GB
+1012,Base Refrigerada
+1013,Roteador Wi-Fi
+1013,Case HD
+1013,Volante Gamer
+1013,Teclado Bluetooth
+1013,Smartwatch
+1013,Nobreak
+1013,Cooler
+1013,Carregador
+1013,Controle PS5
+1014,Cooler
+1014,Power Bank
+1014,Roteador Wi-Fi
+1015,Tablet
+1015,Switch HDMI
+1015,Óculos VR
+1015,Cooler
+1016,Estabilizador
+1016,Fire TV Stick
+1016,Power Bank
+1016,Mousepad Gamer
+1016,Base Refrigerada
+1016,HD Externo
+1017,Webcam HD
+1017,Caixa de Som
+1017,Teclado Bluetooth
+1017,Cabo Lightning
+1017,Impressora
+1017,Placa de Vídeo
+1017,Scanner
+1018,Microfone
+1018,Smartwatch
+1018,Webcam HD
+1018,Carregador Veicular
+1018,Fire TV Stick
+1018,Teclado Mecânico
+1018,Carregador
+1018,"Monitor 24"""
+1018,HD Externo
+1019,Nobreak
+1019,Scanner
+1019,Memória RAM
+1019,Mouse Sem Fio
+1019,Ring Light
+1020,Memória RAM
+1020,Base Refrigerada
+1020,Cabo USB-C
+1020,Impressora
+1020,Teclado Bluetooth
+1020,Smartphone
+1020,"Monitor 24"""
+1020,Cabo Lightning
+1020,Roteador Wi-Fi
+1021,"Monitor 24"""
+1021,Gamepad
+1021,Scanner
+1021,Pen Drive 64GB
+1021,Base Refrigerada
+1021,Smartphone
+1021,Impressora
+1021,Carregador Veicular
+1022,Carregador Veicular
+1022,Cadeira Gamer
+1022,Case HD
+1022,Lâmpada Inteligente
+1022,Memória RAM
+1023,HD Externo
+1023,Microfone
+1023,Pen Drive 64GB
+1023,Cabo Lightning
+1023,Cabo USB-C
+1023,Smartphone
+1024,Fire TV Stick
+1024,Notebook
+1024,"Monitor 24"""
+1024,Microfone
+1024,Lâmpada Inteligente
+1024,Caixa de Som
+1024,Carregador
+1024,Nobreak
+1025,Teclado Mecânico
+1025,Controle PS5
+1025,Fire TV Stick
+1025,Mouse Sem Fio
+1026,Webcam HD
+1026,Filtro de Linha
+1026,Echo Dot
+1026,Teclado Bluetooth
+1026,Pen Drive 64GB
+1027,Cabo USB-C
+1027,Memória RAM
+1027,Scanner
+1027,Tablet
+1027,Cabo Lightning
+1027,Controle Bluetooth
+1027,Lâmpada Inteligente
+1028,Filtro de Linha
+1028,Estabilizador
+1028,Microfone
+1028,Notebook Stand
+1028,Cabo USB-C
+1028,Óculos VR
+1028,"Monitor 24"""
+1028,Caixa de Som
+1028,Smartwatch
+1029,Hub USB
+1029,Notebook
+1029,Placa de Vídeo
+1029,Teclado Bluetooth
+1030,Placa de Vídeo
+1030,Smartwatch
+1030,Smartphone
+1030,Mouse Sem Fio
+1030,Case HD
+1030,Carregador
+1031,Mouse Sem Fio
+1031,Fone de Ouvido
+1031,Hub USB
+1031,Mousepad Gamer
+1031,Carregador Veicular
+1031,Caixa de Som
+1032,Filtro de Linha
+1032,Fire TV Stick
+1032,Tablet
+1032,Cabo Lightning
+1032,Webcam HD
+1032,Switch HDMI
+1032,Nobreak
+1033,Caixa de Som
+1033,Echo Dot
+1033,SSD 500GB
+1033,Controle Bluetooth
+1033,Cadeira Gamer
+1033,Volante Gamer
+1033,Filtro de Linha
+1033,Scanner
+1033,Adaptador HDMI
+1033,Estabilizador
+1034,Base Refrigerada
+1034,Controle PS5
+1034,Carregador
+1034,Nobreak
+1034,Estabilizador
+1034,Volante Gamer
+1034,Cadeira Gamer
+1034,Controle Xbox
+1034,Power Bank
+1035,Cadeira Gamer
+1035,Caixa de Som
+1035,Controle Bluetooth
+1035,Controle PS5
+1035,Cabo Lightning
+1035,Notebook Stand
+1035,Webcam HD
+1035,Scanner
+1036,Roteador Wi-Fi
+1036,Base Refrigerada
+1036,Caixa de Som
+1036,Mouse Sem Fio
+1036,Notebook Stand
+1037,Carregador
+1037,Estabilizador
+1037,Cabo Lightning
+1037,Smartphone
+1038,Mousepad Gamer
+1038,Caixa de Som
+1038,Pen Drive 64GB
+1038,SSD 500GB
+1039,Echo Dot
+1039,Tablet
+1039,Power Bank
+1039,Carregador
+1039,Pen Drive 64GB
+1039,Ring Light
+1039,Smartphone
+1039,Nobreak
+1039,Impressora
+1039,Base Refrigerada
+1040,Scanner
+1040,Volante Gamer
+1040,Controle PS5
+1040,Teclado Bluetooth
+1040,Filtro de Linha
+1040,Fire TV Stick
+1040,HD Externo
+1041,Gamepad
+1041,Tablet
+1041,Carregador
+1041,Placa de Vídeo
+1041,Cabo Lightning
+1041,Controle PS5
+1042,Carregador
+1042,Mousepad Gamer
+1042,Placa de Vídeo
+1042,Echo Dot
+1042,Carregador Veicular
+1042,Cabo USB-C
+1042,Pen Drive 64GB
+1042,Controle Xbox
+1043,Suporte para Celular
+1043,Mouse Sem Fio
+1043,Memória RAM
+1043,Nobreak
+1044,Power Bank
+1044,"Monitor 24"""
+1044,Switch HDMI
+1044,Caixa de Som
+1044,Placa de Vídeo
+1044,Memória RAM
+1045,Fonte 500W
+1045,Teclado Mecânico
+1045,SSD 500GB
+1046,Impressora
+1046,Tablet
+1046,Filtro de Linha
+1046,Óculos VR
+1046,Cooler
+1046,Caixa de Som
+1046,Mousepad Gamer
+1046,Power Bank
+1047,Filtro de Linha
+1047,Estabilizador
+1047,Lâmpada Inteligente
+1047,Base Refrigerada
+1047,Cooler
+1048,Smartphone
+1048,Base Refrigerada
+1048,Fonte 500W
+1048,Switch HDMI
+1049,Mouse Sem Fio
+1049,Cabo Lightning
+1049,Tablet
+1049,Carregador Veicular
+1050,Webcam HD
+1050,Adaptador HDMI
+1050,Mouse Sem Fio
+1050,Caixa de Som
+1050,Microfone
+1050,Gamepad
+1050,Pen Drive 64GB
+1051,Cabo Lightning
+1051,Óculos VR
+1051,Lâmpada Inteligente
+1051,Fonte 500W
+1051,Estabilizador
+1051,Cabo USB-C
+1051,Smartphone
+1051,Teclado Bluetooth
+1051,Controle PS5
+1051,Cadeira Gamer
+1052,Impressora
+1052,"Monitor 24"""
+1052,Cadeira Gamer
+1052,Controle Xbox
+1052,Teclado Bluetooth
+1053,Roteador Wi-Fi
+1053,Gamepad
+1053,Memória RAM
+1053,Tablet
+1053,Óculos VR
+1054,Tablet
+1054,Nobreak
+1054,Case HD
+1054,Impressora
+1054,Carregador Veicular
+1054,Fire TV Stick
+1054,Óculos VR
+1054,Carregador
+1055,Case HD
+1055,Scanner
+1055,Roteador Wi-Fi
+1055,Fone de Ouvido
+1056,Hub USB
+1056,Webcam HD
+1056,Case HD
+1057,Pen Drive 64GB
+1057,Controle Xbox
+1057,Notebook Stand
+1057,Teclado Bluetooth
+1057,Scanner
+1057,Óculos VR
+1057,Smartphone
+1058,Mouse Sem Fio
+1058,Volante Gamer
+1058,HD Externo
+1058,Cabo Lightning
+1059,Microfone
+1059,Placa de Vídeo
+1059,Teclado Bluetooth
+1060,Scanner
+1060,Webcam HD
+1060,Fone de Ouvido
+1060,Lâmpada Inteligente
+1060,Microfone
+1061,Adaptador HDMI
+1061,Tablet
+1061,Nobreak
+1062,Filtro de Linha
+1062,Cadeira Gamer
+1062,Adaptador HDMI
+1062,Teclado Bluetooth
+1062,SSD 500GB
+1062,Fonte 500W
+1063,Caixa de Som
+1063,Pen Drive 64GB
+1063,Suporte para Celular
+1063,SSD 500GB
+1063,Notebook
+1064,Controle Xbox
+1064,Hub USB
+1064,SSD 500GB
+1064,Filtro de Linha
+1064,Caixa de Som
+1065,Pen Drive 64GB
+1065,Volante Gamer
+1065,Cadeira Gamer
+1065,Ring Light
+1065,Fone de Ouvido
+1065,Echo Dot
+1065,Smartwatch
+1066,Base Refrigerada
+1066,Adaptador HDMI
+1066,Lâmpada Inteligente
+1066,Smartwatch
+1066,Óculos VR
+1066,Notebook
+1067,Power Bank
+1067,Hub USB
+1067,Roteador Wi-Fi
+1067,Mouse Sem Fio
+1067,Controle PS5
+1067,Adaptador HDMI
+1068,Nobreak
+1068,Cabo Lightning
+1068,Hub USB
+1068,Notebook
+1068,"Monitor 24"""
+1068,Impressora
+1068,Suporte para Celular
+1068,Placa de Vídeo
+1068,Mousepad Gamer
+1069,Cadeira Gamer
+1069,Memória RAM
+1069,Scanner
+1070,Controle PS5
+1070,Cooler
+1070,Scanner
+1070,Memória RAM
+1070,Carregador Veicular
+1070,"Monitor 24"""
+1070,Ring Light
+1070,Switch HDMI
+1071,Impressora
+1071,Fone de Ouvido
+1071,Óculos VR
+1071,Scanner
+1071,Smartphone
+1071,Cabo USB-C
+1072,Microfone
+1072,Scanner
+1072,Mouse Sem Fio
+1072,Filtro de Linha
+1072,Hub USB
+1072,Fonte 500W
+1073,Filtro de Linha
+1073,"Monitor 24"""
+1073,Controle PS5
+1073,Lâmpada Inteligente
+1073,Carregador Veicular
+1073,Óculos VR
+1073,Mousepad Gamer
+1073,SSD 500GB
+1074,Power Bank
+1074,Volante Gamer
+1074,Gamepad
+1074,Teclado Bluetooth
+1074,Webcam HD
+1074,Controle Bluetooth
+1074,SSD 500GB
+1074,Ring Light
+1075,Fonte 500W
+1075,Switch HDMI
+1075,Lâmpada Inteligente
+1075,Power Bank
+1075,Teclado Bluetooth
+1076,Lâmpada Inteligente
+1076,Gamepad
+1076,Tablet
+1077,Placa de Vídeo
+1077,Memória RAM
+1077,Estabilizador
+1077,Cooler
+1077,Base Refrigerada
+1077,Notebook Stand
+1077,Nobreak
+1077,Tablet
+1077,Carregador Veicular
+1078,Controle Xbox
+1078,Pen Drive 64GB
+1078,Filtro de Linha
+1078,Teclado Mecânico
+1078,Gamepad
+1078,Carregador Veicular
+1078,Controle PS5
+1078,Case HD
+1078,Fonte 500W
+1078,Hub USB
+1079,Mousepad Gamer
+1079,Caixa de Som
+1079,Nobreak
+1079,Lâmpada Inteligente
+1080,Controle Bluetooth
+1080,HD Externo
+1080,Notebook
+1080,Fone de Ouvido
+1080,Caixa de Som
+1080,Echo Dot
+1081,Base Refrigerada
+1081,SSD 500GB
+1081,Case HD
+1081,Switch HDMI
+1082,Óculos VR
+1082,Volante Gamer
+1082,Ring Light
+1082,Fire TV Stick
+1082,Power Bank
+1082,Caixa de Som
+1083,Estabilizador
+1083,Volante Gamer
+1083,Smartphone
+1083,Mousepad Gamer
+1083,Cadeira Gamer
+1084,Smartwatch
+1084,Suporte para Celular
+1084,Volante Gamer
+1084,Cabo USB-C
+1084,Base Refrigerada
+1084,Carregador
+1084,Teclado Bluetooth
+1084,Caixa de Som
+1084,"Monitor 24"""
+1085,Webcam HD
+1085,Base Refrigerada
+1085,Filtro de Linha
+1085,Cabo USB-C
+1085,Teclado Bluetooth
+1085,Memória RAM
+1085,Cooler
+1085,Notebook Stand
+1085,Fonte 500W
+1085,Carregador Veicular
+1086,Teclado Bluetooth
+1086,Notebook Stand
+1086,Pen Drive 64GB
+1086,Echo Dot
+1086,Controle Xbox
+1086,Impressora
+1086,Caixa de Som
+1086,Case HD
+1086,Roteador Wi-Fi
+1087,Case HD
+1087,Caixa de Som
+1087,Roteador Wi-Fi
+1087,Notebook Stand
+1087,Mouse Sem Fio
+1087,Gamepad
+1087,Controle Xbox
+1087,Controle PS5
+1087,Hub USB
+1087,Cooler
+1088,Webcam HD
+1088,HD Externo
+1088,Smartwatch
+1088,Ring Light
+1089,Óculos VR
+1089,Tablet
+1089,Mouse Sem Fio
+1089,SSD 500GB
+1089,Hub USB
+1090,SSD 500GB
+1090,Carregador
+1090,Tablet
+1090,Mousepad Gamer
+1090,Ring Light
+1090,Placa de Vídeo
+1090,Notebook
+1090,Switch HDMI
+1090,Volante Gamer
+1090,Echo Dot
+1091,Adaptador HDMI
+1091,Lâmpada Inteligente
+1091,Mousepad Gamer
+1092,SSD 500GB
+1092,Cabo Lightning
+1092,Controle Xbox
+1092,Memória RAM
+1092,Smartwatch
+1092,Fire TV Stick
+1092,Volante Gamer
+1092,Roteador Wi-Fi
+1092,Scanner
+1093,Notebook
+1093,Ring Light
+1093,Hub USB
+1093,Filtro de Linha
+1093,Nobreak
+1093,Power Bank
+1093,Pen Drive 64GB
+1093,Base Refrigerada
+1093,Webcam HD
+1093,Fonte 500W
+1094,Power Bank
+1094,Placa de Vídeo
+1094,Switch HDMI
+1095,Teclado Mecânico
+1095,Estabilizador
+1095,Scanner
+1096,Base Refrigerada
+1096,Suporte para Celular
+1096,Carregador
+1096,Impressora
+1096,Ring Light
+1097,Tablet
+1097,Base Refrigerada
+1097,Cooler
+1097,Hub USB
+1097,Ring Light
+1097,Roteador Wi-Fi
+1097,SSD 500GB
+1097,Impressora
+1098,Echo Dot
+1098,Notebook
+1098,Controle Xbox
+1098,Cabo Lightning
+1099,Adaptador HDMI
+1099,Smartwatch
+1099,Estabilizador
+1100,Estabilizador
+1100,Fone de Ouvido
+1100,Mousepad Gamer
+1100,Notebook
+1101,Controle Bluetooth
+1101,Notebook
+1101,Fonte 500W
+1101,HD Externo
+1101,Caixa de Som
+1101,Webcam HD
+1102,Filtro de Linha
+1102,"Monitor 24"""
+1102,Switch HDMI
+1102,Tablet
+1102,Base Refrigerada
+1102,Impressora
+1102,Microfone
+1102,Pen Drive 64GB
+1102,Memória RAM
+1102,Case HD
+1103,Pen Drive 64GB
+1103,Lâmpada Inteligente
+1103,Cadeira Gamer
+1103,Placa de Vídeo
+1104,Lâmpada Inteligente
+1104,Switch HDMI
+1104,Nobreak
+1105,Power Bank
+1105,Óculos VR
+1105,Controle Bluetooth
+1105,Mouse Sem Fio
+1105,Placa de Vídeo
+1105,Case HD
+1105,Caixa de Som
+1105,Cadeira Gamer
+1105,Lâmpada Inteligente
+1106,Switch HDMI
+1106,Fone de Ouvido
+1106,Adaptador HDMI
+1106,Cabo Lightning
+1107,Filtro de Linha
+1107,Microfone
+1107,Mouse Sem Fio
+1107,Carregador Veicular
+1107,Estabilizador
+1107,Hub USB
+1107,Smartphone
+1107,SSD 500GB
+1107,Fire TV Stick
+1108,Scanner
+1108,Microfone
+1108,Case HD
+1108,Base Refrigerada
+1109,Scanner
+1109,Suporte para Celular
+1109,Controle PS5
+1109,Cabo USB-C
+1109,Estabilizador
+1110,Fonte 500W
+1110,Cabo Lightning
+1110,Echo Dot
+1110,Base Refrigerada
+1110,Scanner
+1110,Placa de Vídeo
+1110,Roteador Wi-Fi
+1111,Caixa de Som
+1111,Teclado Mecânico
+1111,Roteador Wi-Fi
+1111,Notebook Stand
+1111,Mousepad Gamer
+1111,Base Refrigerada
+1111,Switch HDMI
+1111,Fonte 500W
+1112,Hub USB
+1112,Notebook
+1112,Fire TV Stick
+1112,Cooler
+1112,Suporte para Celular
+1112,Controle PS5
+1112,Tablet
+1112,Adaptador HDMI
+1112,Impressora
+1113,Roteador Wi-Fi
+1113,Memória RAM
+1113,Volante Gamer
+1113,Mousepad Gamer
+1113,Teclado Bluetooth
+1113,Smartphone
+1113,Cabo USB-C
+1113,Controle Bluetooth
+1114,Caixa de Som
+1114,Controle PS5
+1114,SSD 500GB
+1114,Fire TV Stick
+1115,Volante Gamer
+1115,Echo Dot
+1115,Estabilizador
+1115,Óculos VR
+1115,Fire TV Stick
+1115,Notebook Stand
+1116,Teclado Mecânico
+1116,Gamepad
+1116,Smartwatch
+1117,Volante Gamer
+1117,Caixa de Som
+1117,Lâmpada Inteligente
+1117,Filtro de Linha
+1117,Placa de Vídeo
+1117,Microfone
+1117,Echo Dot
+1117,Teclado Bluetooth
+1117,Cabo USB-C
+1118,Scanner
+1118,Controle Xbox
+1118,Teclado Bluetooth
+1118,Hub USB
+1118,Adaptador HDMI
+1118,Base Refrigerada
+1118,Roteador Wi-Fi
+1118,Lâmpada Inteligente
+1119,Smartwatch
+1119,"Monitor 24"""
+1119,Controle PS5
+1119,Controle Bluetooth
+1119,Cooler
+1119,Controle Xbox
+1119,Cabo Lightning
+1120,Controle Bluetooth
+1120,Tablet
+1120,Controle Xbox
+1120,Echo Dot
+1120,Roteador Wi-Fi
+1121,Cadeira Gamer
+1121,Controle Bluetooth
+1121,Gamepad
+1121,Smartwatch
+1121,Microfone
+1121,Suporte para Celular
+1121,Lâmpada Inteligente
+1122,Óculos VR
+1122,Cabo Lightning
+1122,Webcam HD
+1123,Fone de Ouvido
+1123,Carregador
+1123,Teclado Bluetooth
+1123,Gamepad
+1123,Volante Gamer
+1123,Webcam HD
+1123,Case HD
+1124,Cadeira Gamer
+1124,Smartphone
+1124,Switch HDMI
+1124,Gamepad
+1124,Echo Dot
+1124,Volante Gamer
+1124,Notebook Stand
+1124,Hub USB
+1124,Suporte para Celular
+1124,Carregador
+1125,Echo Dot
+1125,"Monitor 24"""
+1125,Mouse Sem Fio
+1125,Power Bank
+1125,Fire TV Stick
+1125,Controle PS5
+1125,Switch HDMI
+1126,HD Externo
+1126,Switch HDMI
+1126,Lâmpada Inteligente
+1127,Caixa de Som
+1127,"Monitor 24"""
+1127,Teclado Bluetooth
+1127,Mousepad Gamer
+1128,Memória RAM
+1128,Mousepad Gamer
+1128,Fonte 500W
+1128,Smartwatch
+1128,Cabo USB-C
+1128,Ring Light
+1128,Notebook Stand
+1128,Filtro de Linha
+1128,Lâmpada Inteligente
+1129,Lâmpada Inteligente
+1129,Switch HDMI
+1129,Fonte 500W
+1129,Carregador
+1129,Controle PS5
+1129,Cadeira Gamer
+1129,Tablet
+1129,Case HD
+1129,Filtro de Linha
+1130,Filtro de Linha
+1130,Teclado Mecânico
+1130,Pen Drive 64GB
+1130,Caixa de Som
+1130,Suporte para Celular
+1130,Teclado Bluetooth
+1130,Mouse Sem Fio
+1131,Smartphone
+1131,SSD 500GB
+1131,Notebook Stand
+1131,Volante Gamer
+1131,Memória RAM
+1132,Gamepad
+1132,Fone de Ouvido
+1132,Smartwatch
+1132,Mousepad Gamer
+1132,Óculos VR
+1132,Base Refrigerada
+1132,Mouse Sem Fio
+1132,Controle PS5
+1132,Impressora
+1132,Placa de Vídeo
+1133,Scanner
+1133,"Monitor 24"""
+1133,Cabo Lightning
+1133,Smartwatch
+1133,Estabilizador
+1133,HD Externo
+1134,HD Externo
+1134,Mouse Sem Fio
+1134,Carregador
+1134,Pen Drive 64GB
+1134,Lâmpada Inteligente
+1134,Memória RAM
+1134,Switch HDMI
+1135,Notebook Stand
+1135,"Monitor 24"""
+1135,Base Refrigerada
+1135,Volante Gamer
+1135,Lâmpada Inteligente
+1135,Power Bank
+1135,Roteador Wi-Fi
+1136,Notebook Stand
+1136,Teclado Mecânico
+1136,Memória RAM
+1136,Fone de Ouvido
+1136,Scanner
+1136,Cooler
+1136,Controle PS5
+1136,Impressora
+1136,Notebook
+1136,Controle Xbox
+1137,Nobreak
+1137,Switch HDMI
+1137,Placa de Vídeo
+1137,Notebook
+1137,Mousepad Gamer
+1137,Roteador Wi-Fi
+1138,Mousepad Gamer
+1138,Suporte para Celular
+1138,Echo Dot
+1139,Roteador Wi-Fi
+1139,Suporte para Celular
+1139,Placa de Vídeo
+1139,Scanner
+1139,Case HD
+1139,Fire TV Stick
+1139,Teclado Mecânico
+1139,Echo Dot
+1139,Adaptador HDMI
+1139,SSD 500GB
+1140,Cooler
+1140,Filtro de Linha
+1140,Cadeira Gamer
+1140,Pen Drive 64GB
+1140,Hub USB
+1140,SSD 500GB
+1140,Fire TV Stick
+1140,Gamepad
+1141,Mousepad Gamer
+1141,Teclado Bluetooth
+1141,Fone de Ouvido
+1141,Base Refrigerada
+1141,Teclado Mecânico
+1141,Cooler
+1141,Impressora
+1141,Nobreak
+1141,"Monitor 24"""
+1142,Carregador Veicular
+1142,Smartphone
+1142,Filtro de Linha
+1142,Cabo Lightning
+1142,Base Refrigerada
+1142,SSD 500GB
+1142,Carregador
+1142,Controle Bluetooth
+1142,Cabo USB-C
+1143,Fonte 500W
+1143,Fire TV Stick
+1143,Case HD
+1143,Notebook Stand
+1143,Carregador
+1143,Tablet
+1143,Roteador Wi-Fi
+1143,Teclado Bluetooth
+1144,Gamepad
+1144,Notebook Stand
+1144,Volante Gamer
+1144,Fire TV Stick
+1144,"Monitor 24"""
+1145,Case HD
+1145,Memória RAM
+1145,Caixa de Som
+1146,Lâmpada Inteligente
+1146,Teclado Bluetooth
+1146,Smartphone
+1146,SSD 500GB
+1146,Teclado Mecânico
+1147,"Monitor 24"""
+1147,Base Refrigerada
+1147,Mousepad Gamer
+1147,Estabilizador
+1147,HD Externo
+1147,Fire TV Stick
+1148,Carregador Veicular
+1148,Óculos VR
+1148,Roteador Wi-Fi
+1148,SSD 500GB
+1148,Echo Dot
+1148,Volante Gamer
+1148,Caixa de Som
+1149,Teclado Bluetooth
+1149,HD Externo
+1149,Ring Light
+1149,Controle Bluetooth
+1149,Memória RAM
+1149,Carregador Veicular
+1149,Webcam HD
+1149,Mouse Sem Fio
+1149,Roteador Wi-Fi
+1149,SSD 500GB
+1150,Carregador Veicular
+1150,Roteador Wi-Fi
+1150,Smartphone
+1150,Gamepad
+1150,Lâmpada Inteligente
+1150,Placa de Vídeo
+1150,Nobreak
+1150,Fire TV Stick
+1151,Notebook Stand
+1151,Cabo Lightning
+1151,Echo Dot
+1151,Adaptador HDMI
+1151,Hub USB
+1152,Base Refrigerada
+1152,Cooler
+1152,Controle Bluetooth
+1152,Volante Gamer
+1152,Caixa de Som
+1152,Switch HDMI
+1152,Ring Light
+1152,Smartwatch
+1152,SSD 500GB
+1153,Cooler
+1153,Controle Xbox
+1153,Echo Dot
+1154,Ring Light
+1154,Filtro de Linha
+1154,Estabilizador
+1154,HD Externo
+1154,Fire TV Stick
+1154,Fone de Ouvido
+1154,Webcam HD
+1154,Carregador Veicular
+1154,Placa de Vídeo
+1155,Cadeira Gamer
+1155,Notebook Stand
+1155,Mousepad Gamer
+1155,Cabo USB-C
+1155,Base Refrigerada
+1155,Smartphone
+1155,HD Externo
+1155,SSD 500GB
+1156,Mouse Sem Fio
+1156,Echo Dot
+1156,Impressora
+1156,Hub USB
+1156,Fonte 500W
+1157,Estabilizador
+1157,Teclado Mecânico
+1157,Hub USB
+1157,Nobreak
+1157,Cabo Lightning
+1157,Ring Light
+1157,Cooler
+1157,Case HD
+1157,Fire TV Stick
+1158,Fonte 500W
+1158,Mouse Sem Fio
+1158,Caixa de Som
+1159,Smartwatch
+1159,Controle Xbox
+1159,Teclado Mecânico
+1159,Scanner
+1159,Cadeira Gamer
+1159,Case HD
+1159,Volante Gamer
+1160,Pen Drive 64GB
+1160,Volante Gamer
+1160,Lâmpada Inteligente
+1160,Notebook
+1160,Fone de Ouvido
+1160,Cooler
+1160,Carregador
+1160,Gamepad
+1160,Adaptador HDMI
+1160,Microfone
+1161,HD Externo
+1161,Caixa de Som
+1161,Cabo USB-C
+1161,SSD 500GB
+1161,Switch HDMI
+1161,Nobreak
+1161,Suporte para Celular
+1161,Pen Drive 64GB
+1161,Filtro de Linha
+1162,Fonte 500W
+1162,Ring Light
+1162,Nobreak
+1162,Caixa de Som
+1163,Placa de Vídeo
+1163,HD Externo
+1163,Smartwatch
+1163,Base Refrigerada
+1163,Case HD
+1163,Impressora
+1163,Óculos VR
+1163,Nobreak
+1163,Smartphone
+1163,Filtro de Linha
+1164,Nobreak
+1164,Cabo Lightning
+1164,Pen Drive 64GB
+1164,Mouse Sem Fio
+1164,Notebook Stand
+1164,Adaptador HDMI
+1164,Placa de Vídeo
+1165,Case HD
+1165,Scanner
+1165,Volante Gamer
+1165,Impressora
+1165,Base Refrigerada
+1165,Lâmpada Inteligente
+1165,Controle Bluetooth
+1166,Echo Dot
+1166,Cadeira Gamer
+1166,Caixa de Som
+1166,Ring Light
+1166,Switch HDMI
+1166,Adaptador HDMI
+1166,Volante Gamer
+1166,Gamepad
+1166,Estabilizador
+1167,Filtro de Linha
+1167,Power Bank
+1167,Roteador Wi-Fi
+1168,Switch HDMI
+1168,Nobreak
+1168,Controle Xbox
+1169,Memória RAM
+1169,Controle Xbox
+1169,Fire TV Stick
+1170,Smartwatch
+1170,Memória RAM
+1170,Adaptador HDMI
+1170,Mousepad Gamer
+1170,Case HD
+1170,Controle Bluetooth
+1170,Fonte 500W
+1171,Nobreak
+1171,Controle PS5
+1171,Filtro de Linha
+1171,Mousepad Gamer
+1171,Webcam HD
+1171,Case HD
+1171,Cadeira Gamer
+1172,Lâmpada Inteligente
+1172,Notebook Stand
+1172,Fone de Ouvido
+1173,Controle PS5
+1173,Webcam HD
+1173,Teclado Mecânico
+1173,Gamepad
+1173,Cooler
+1173,SSD 500GB
+1173,Suporte para Celular
+1173,Controle Bluetooth
+1174,Cabo Lightning
+1174,Microfone
+1174,Cabo USB-C
+1174,Carregador Veicular
+1174,Roteador Wi-Fi
+1175,Impressora
+1175,Echo Dot
+1175,Gamepad
+1175,Controle Xbox
+1175,Hub USB
+1176,Base Refrigerada
+1176,Mouse Sem Fio
+1176,HD Externo
+1176,Mousepad Gamer
+1177,Nobreak
+1177,Controle PS5
+1177,Mousepad Gamer
+1177,Power Bank
+1177,Teclado Bluetooth
+1177,Microfone
+1178,Power Bank
+1178,Smartphone
+1178,Impressora
+1178,Cabo Lightning
+1179,Base Refrigerada
+1179,Microfone
+1179,Nobreak
+1179,Controle Xbox
+1180,Placa de Vídeo
+1180,Ring Light
+1180,Case HD
+1180,Microfone
+1180,Cadeira Gamer
+1180,Nobreak
+1180,Smartwatch
+1181,Notebook
+1181,Fonte 500W
+1181,Teclado Bluetooth
+1181,Cooler
+1181,Controle Xbox
+1181,Smartwatch
+1181,Estabilizador
+1181,Mouse Sem Fio
+1181,Case HD
+1181,Base Refrigerada
+1182,Estabilizador
+1182,SSD 500GB
+1182,"Monitor 24"""
+1182,Webcam HD
+1182,Fone de Ouvido
+1182,Volante Gamer
+1182,Lâmpada Inteligente
+1183,"Monitor 24"""
+1183,Cadeira Gamer
+1183,Caixa de Som
+1183,Cabo Lightning
+1183,Webcam HD
+1183,Ring Light
+1183,Base Refrigerada
+1183,Microfone
+1183,Óculos VR
+1183,SSD 500GB
+1184,SSD 500GB
+1184,Estabilizador
+1184,Cadeira Gamer
+1184,Fire TV Stick
+1184,Fonte 500W
+1185,Roteador Wi-Fi
+1185,Fone de Ouvido
+1185,Volante Gamer
+1185,Microfone
+1185,Tablet
+1185,Notebook Stand
+1185,Nobreak
+1185,Caixa de Som
+1185,Óculos VR
+1186,Nobreak
+1186,Microfone
+1186,Cabo Lightning
+1186,Estabilizador
+1187,Carregador
+1187,Power Bank
+1187,Roteador Wi-Fi
+1187,Controle Bluetooth
+1187,"Monitor 24"""
+1187,Base Refrigerada
+1187,Teclado Mecânico
+1187,Tablet
+1188,Carregador
+1188,Hub USB
+1188,Caixa de Som
+1189,Switch HDMI
+1189,Tablet
+1189,Mouse Sem Fio
+1189,Mousepad Gamer
+1189,Teclado Bluetooth
+1190,Placa de Vídeo
+1190,Tablet
+1190,Smartwatch
+1190,Hub USB
+1190,HD Externo
+1190,Memória RAM
+1191,Roteador Wi-Fi
+1191,HD Externo
+1191,Webcam HD
+1192,Suporte para Celular
+1192,"Monitor 24"""
+1192,Filtro de Linha
+1192,Notebook
+1192,Webcam HD
+1192,Smartphone
+1192,Adaptador HDMI
+1193,Placa de Vídeo
+1193,Cooler
+1193,Notebook
+1193,Suporte para Celular
+1193,Impressora
+1193,Carregador
+1194,Controle Xbox
+1194,SSD 500GB
+1194,Cabo USB-C
+1194,"Monitor 24"""
+1194,Mouse Sem Fio
+1195,Notebook Stand
+1195,Microfone
+1195,Carregador Veicular
+1195,Placa de Vídeo
+1195,Cadeira Gamer
+1195,Mousepad Gamer
+1195,Controle PS5
+1195,Smartwatch
+1195,Fonte 500W
+1195,Fone de Ouvido
+1196,Base Refrigerada
+1196,Estabilizador
+1196,Notebook
+1196,Carregador
+1196,Echo Dot
+1196,Power Bank
+1196,Scanner
+1197,Fire TV Stick
+1197,Óculos VR
+1197,Notebook Stand
+1197,Mouse Sem Fio
+1198,Cooler
+1198,Memória RAM
+1198,HD Externo
+1198,Mouse Sem Fio
+1199,Roteador Wi-Fi
+1199,Fonte 500W
+1199,Case HD
+1199,Placa de Vídeo
+1199,Teclado Bluetooth
+1200,Ring Light
+1200,Memória RAM
+1200,Cabo USB-C
+1200,Gamepad
+1200,Base Refrigerada
+1200,Carregador Veicular
+1200,Controle Xbox
+1200,Scanner
+1201,Volante Gamer
+1201,"Monitor 24"""
+1201,Estabilizador
+1201,Teclado Bluetooth
+1202,Scanner
+1202,Notebook Stand
+1202,Smartwatch
+1202,SSD 500GB
+1202,Hub USB
+1202,Base Refrigerada
+1203,SSD 500GB
+1203,Controle PS5
+1203,Cadeira Gamer
+1203,Cooler
+1203,Scanner
+1203,Óculos VR
+1203,Filtro de Linha
+1203,Impressora
+1203,Microfone
+1204,Nobreak
+1204,Echo Dot
+1204,Mouse Sem Fio
+1204,Teclado Mecânico
+1204,Scanner
+1205,Controle Xbox
+1205,Microfone
+1205,Webcam HD
+1205,Teclado Bluetooth
+1206,Placa de Vídeo
+1206,Teclado Bluetooth
+1206,Hub USB
+1207,SSD 500GB
+1207,Adaptador HDMI
+1207,Filtro de Linha
+1207,Mousepad Gamer
+1208,Controle PS5
+1208,Carregador
+1208,Gamepad
+1208,Memória RAM
+1208,Lâmpada Inteligente
+1208,Adaptador HDMI
+1208,Cadeira Gamer
+1208,Switch HDMI
+1208,Carregador Veicular
+1209,HD Externo
+1209,Filtro de Linha
+1209,Echo Dot
+1209,Smartwatch
+1209,Cadeira Gamer
+1209,Adaptador HDMI
+1210,"Monitor 24"""
+1210,Roteador Wi-Fi
+1210,Switch HDMI
+1210,Smartwatch
+1210,Scanner
+1210,Teclado Bluetooth
+1210,Fonte 500W
+1210,Filtro de Linha
+1211,Memória RAM
+1211,Filtro de Linha
+1211,Volante Gamer
+1212,Notebook
+1212,Suporte para Celular
+1212,Roteador Wi-Fi
+1212,Volante Gamer
+1212,Lâmpada Inteligente
+1212,Hub USB
+1212,Adaptador HDMI
+1213,Suporte para Celular
+1213,HD Externo
+1213,Switch HDMI
+1214,Mouse Sem Fio
+1214,HD Externo
+1214,Case HD
+1214,Notebook
+1214,Teclado Mecânico
+1214,Cabo USB-C
+1214,Tablet
+1214,Ring Light
+1214,SSD 500GB
+1215,Hub USB
+1215,Pen Drive 64GB
+1215,Microfone
+1215,Lâmpada Inteligente
+1215,Cooler
+1215,Switch HDMI
+1215,Memória RAM
+1215,Teclado Mecânico
+1215,Carregador
+1215,HD Externo
+1216,Mousepad Gamer
+1216,Fonte 500W
+1216,Carregador
+1216,Nobreak
+1216,Teclado Mecânico
+1217,Notebook Stand
+1217,Filtro de Linha
+1217,Scanner
+1217,Fire TV Stick
+1217,Memória RAM
+1217,Mousepad Gamer
+1217,SSD 500GB
+1218,Tablet
+1218,Carregador Veicular
+1218,"Monitor 24"""
+1218,Adaptador HDMI
+1218,Scanner
+1218,Controle PS5
+1218,Gamepad
+1219,Cabo USB-C
+1219,Filtro de Linha
+1219,Lâmpada Inteligente
+1219,Fone de Ouvido
+1219,Smartwatch
+1219,Power Bank
+1219,Memória RAM
+1219,Carregador
+1219,Smartphone
+1219,Tablet
+1220,Tablet
+1220,Webcam HD
+1220,Impressora
+1220,Gamepad
+1220,Cooler
+1220,"Monitor 24"""
+1220,Smartphone
+1221,Controle Xbox
+1221,Scanner
+1221,Suporte para Celular
+1221,Webcam HD
+1221,Ring Light
+1221,Cabo Lightning
+1221,Smartwatch
+1221,Carregador Veicular
+1221,Teclado Bluetooth
+1221,Adaptador HDMI
+1222,Power Bank
+1222,Controle Xbox
+1222,Fone de Ouvido
+1222,Scanner
+1223,Base Refrigerada
+1223,Mouse Sem Fio
+1223,Cooler
+1224,Switch HDMI
+1224,Power Bank
+1224,Óculos VR
+1224,Case HD
+1224,SSD 500GB
+1224,Gamepad
+1224,"Monitor 24"""
+1224,Controle Xbox
+1224,Notebook
+1225,Pen Drive 64GB
+1225,Fonte 500W
+1225,Base Refrigerada
+1225,Volante Gamer
+1225,Microfone
+1225,Teclado Mecânico
+1225,Scanner
+1225,Cadeira Gamer
+1226,Scanner
+1226,Placa de Vídeo
+1226,Power Bank
+1226,Cabo USB-C
+1226,Teclado Mecânico
+1226,Controle PS5
+1227,Controle Xbox
+1227,Hub USB
+1227,Smartwatch
+1227,Mousepad Gamer
+1227,Pen Drive 64GB
+1227,Mouse Sem Fio
+1227,Carregador Veicular
+1228,Cabo USB-C
+1228,Carregador Veicular
+1228,Controle Bluetooth
+1228,Adaptador HDMI
+1229,Controle PS5
+1229,Estabilizador
+1229,HD Externo
+1229,Caixa de Som
+1229,Cadeira Gamer
+1229,Mousepad Gamer
+1229,Impressora
+1229,Controle Bluetooth
+1230,Memória RAM
+1230,HD Externo
+1230,Mousepad Gamer
+1230,Estabilizador
+1230,Mouse Sem Fio
+1231,Case HD
+1231,Fire TV Stick
+1231,Base Refrigerada
+1231,Mousepad Gamer
+1231,Switch HDMI
+1232,Nobreak
+1232,Switch HDMI
+1232,Estabilizador
+1232,Case HD
+1232,Fonte 500W
+1232,Cooler
+1232,Óculos VR
+1232,Mousepad Gamer
+1232,HD Externo
+1232,Notebook Stand
+1233,Echo Dot
+1233,Notebook Stand
+1233,Case HD
+1233,Lâmpada Inteligente
+1234,Placa de Vídeo
+1234,Carregador
+1234,Adaptador HDMI
+1234,Carregador Veicular
+1234,Mouse Sem Fio
+1234,Lâmpada Inteligente
+1234,Base Refrigerada
+1235,Fone de Ouvido
+1235,Carregador
+1235,Microfone
+1235,Gamepad
+1235,Mouse Sem Fio
+1235,Estabilizador
+1235,Teclado Mecânico
+1235,Fonte 500W
+1235,Memória RAM
+1235,Carregador Veicular
+1236,Base Refrigerada
+1236,Placa de Vídeo
+1236,Teclado Bluetooth
+1236,Fone de Ouvido
+1236,Notebook Stand
+1236,Switch HDMI
+1236,Estabilizador
+1236,Controle Bluetooth
+1236,Cooler
+1237,Carregador Veicular
+1237,HD Externo
+1237,Carregador
+1237,Notebook Stand
+1237,Cadeira Gamer
+1237,Hub USB
+1237,Teclado Mecânico
+1237,Mousepad Gamer
+1237,Suporte para Celular
+1237,Fone de Ouvido
+1238,Óculos VR
+1238,Notebook Stand
+1238,Controle Xbox
+1238,Cabo USB-C
+1238,Mousepad Gamer
+1238,Fonte 500W
+1239,Microfone
+1239,Gamepad
+1239,Ring Light
+1239,SSD 500GB
+1239,Hub USB
+1240,Case HD
+1240,Estabilizador
+1240,Hub USB
+1241,Hub USB
+1241,Cadeira Gamer
+1241,Teclado Bluetooth
+1241,Nobreak
+1242,Gamepad
+1242,Impressora
+1242,Controle PS5
+1242,Filtro de Linha
+1242,Memória RAM
+1242,HD Externo
+1242,Hub USB
+1242,Teclado Mecânico
+1242,Placa de Vídeo
+1243,Adaptador HDMI
+1243,Lâmpada Inteligente
+1243,Estabilizador
+1243,Volante Gamer
+1243,Filtro de Linha
+1244,Webcam HD
+1244,Memória RAM
+1244,Óculos VR
+1244,Teclado Mecânico
+1244,Lâmpada Inteligente
+1244,Teclado Bluetooth
+1244,Ring Light
+1244,Estabilizador
+1244,Hub USB
+1245,Filtro de Linha
+1245,Volante Gamer
+1245,Controle Xbox
+1245,Nobreak
+1245,Cabo USB-C
+1246,Estabilizador
+1246,Filtro de Linha
+1246,Scanner
+1246,Carregador Veicular
+1247,Notebook
+1247,Microfone
+1247,Lâmpada Inteligente
+1247,Suporte para Celular
+1247,Tablet
+1247,Hub USB
+1247,Fire TV Stick
+1247,Controle Bluetooth
+1248,Webcam HD
+1248,HD Externo
+1248,Mouse Sem Fio
+1248,Gamepad
+1248,Cadeira Gamer
+1248,Carregador Veicular
+1249,Filtro de Linha
+1249,Hub USB
+1249,Fonte 500W
+1250,Memória RAM
+1250,Ring Light
+1250,HD Externo
+1250,Pen Drive 64GB
+1250,Suporte para Celular
+1251,Controle PS5
+1251,Notebook Stand
+1251,Fone de Ouvido
+1251,SSD 500GB
+1251,Microfone
+1252,Notebook Stand
+1252,Fonte 500W
+1252,Gamepad
+1252,Mousepad Gamer
+1252,Smartwatch
+1252,Cabo Lightning
+1253,Lâmpada Inteligente
+1253,Echo Dot
+1253,Controle Bluetooth
+1253,Microfone
+1253,Nobreak
+1253,Switch HDMI
+1254,Base Refrigerada
+1254,Gamepad
+1254,Ring Light
+1254,Carregador Veicular
+1254,Cabo USB-C
+1254,SSD 500GB
+1254,Pen Drive 64GB
+1254,Controle Bluetooth
+1254,Memória RAM
+1254,Webcam HD
+1255,Carregador
+1255,Estabilizador
+1255,Echo Dot
+1255,Microfone
+1255,Teclado Bluetooth
+1255,Cadeira Gamer
+1255,Cabo USB-C
+1256,Gamepad
+1256,Teclado Mecânico
+1256,Mousepad Gamer
+1256,Pen Drive 64GB
+1257,Notebook Stand
+1257,Carregador Veicular
+1257,HD Externo
+1257,Scanner
+1257,Teclado Mecânico
+1257,Smartwatch
+1257,Mousepad Gamer
+1258,Notebook
+1258,SSD 500GB
+1258,Carregador
+1258,Power Bank
+1258,Carregador Veicular
+1258,Microfone
+1258,Caixa de Som
+1258,Ring Light
+1259,Microfone
+1259,Smartwatch
+1259,Notebook
+1259,Cooler
+1260,Óculos VR
+1260,Estabilizador
+1260,Hub USB
+1260,HD Externo
+1261,Fone de Ouvido
+1261,Gamepad
+1261,Echo Dot
+1261,Volante Gamer
+1261,Webcam HD
+1262,Notebook Stand
+1262,Fonte 500W
+1262,Smartphone
+1262,Teclado Mecânico
+1262,Notebook
+1262,Impressora
+1262,Tablet
+1262,HD Externo
+1262,Teclado Bluetooth
+1262,Memória RAM
+1263,"Monitor 24"""
+1263,Gamepad
+1263,Caixa de Som
+1263,Lâmpada Inteligente
+1263,Mousepad Gamer
+1263,Carregador
+1263,Controle PS5
+1263,SSD 500GB
+1263,Case HD
+1264,Mouse Sem Fio
+1264,"Monitor 24"""
+1264,Fire TV Stick
+1264,Memória RAM
+1264,Cabo Lightning
+1264,Notebook
+1264,Case HD
+1264,Carregador Veicular
+1264,Switch HDMI
+1264,Caixa de Som
+1265,Gamepad
+1265,Scanner
+1265,Smartphone
+1265,Fonte 500W
+1265,Adaptador HDMI
+1266,Switch HDMI
+1266,SSD 500GB
+1266,Suporte para Celular
+1266,Filtro de Linha
+1266,Óculos VR
+1266,Teclado Mecânico
+1267,Mouse Sem Fio
+1267,Cabo USB-C
+1267,Cabo Lightning
+1267,Carregador Veicular
+1267,Óculos VR
+1267,Teclado Bluetooth
+1267,Notebook
+1267,Ring Light
+1268,Fone de Ouvido
+1268,Case HD
+1268,Ring Light
+1268,Microfone
+1268,Impressora
+1268,Notebook
+1268,Adaptador HDMI
+1268,Mouse Sem Fio
+1268,Filtro de Linha
+1268,Caixa de Som
+1269,Placa de Vídeo
+1269,Controle Xbox
+1269,Mousepad Gamer
+1269,Hub USB
+1270,Fone de Ouvido
+1270,Adaptador HDMI
+1270,Cabo Lightning
+1270,Hub USB
+1270,Estabilizador
+1271,Nobreak
+1271,Base Refrigerada
+1271,Volante Gamer
+1271,Echo Dot
+1271,Case HD
+1272,Webcam HD
+1272,Mouse Sem Fio
+1272,Óculos VR
+1272,Base Refrigerada
+1272,Fone de Ouvido
+1273,Controle Bluetooth
+1273,Fone de Ouvido
+1273,Mousepad Gamer
+1273,Controle Xbox
+1273,Cooler
+1273,Lâmpada Inteligente
+1273,Carregador Veicular
+1274,Cabo Lightning
+1274,Echo Dot
+1274,Impressora
+1274,Fone de Ouvido
+1274,Estabilizador
+1274,Controle Bluetooth
+1274,Gamepad
+1274,Adaptador HDMI
+1274,Carregador
+1275,Roteador Wi-Fi
+1275,"Monitor 24"""
+1275,Microfone
+1275,Scanner
+1275,Power Bank
+1275,Notebook Stand
+1275,Ring Light
+1275,Hub USB
+1276,Fire TV Stick
+1276,Volante Gamer
+1276,Microfone
+1276,Cabo USB-C
+1276,Roteador Wi-Fi
+1277,Controle PS5
+1277,Scanner
+1277,Teclado Mecânico
+1277,Memória RAM
+1278,Cabo Lightning
+1278,Gamepad
+1278,Cooler
+1278,Cadeira Gamer
+1278,Teclado Mecânico
+1279,Filtro de Linha
+1279,Gamepad
+1279,Lâmpada Inteligente
+1279,Notebook Stand
+1279,Memória RAM
+1279,Scanner
+1279,Pen Drive 64GB
+1279,Óculos VR
+1280,Notebook Stand
+1280,Fone de Ouvido
+1280,Controle PS5
+1280,Adaptador HDMI
+1280,Fonte 500W
+1280,Scanner
+1280,Roteador Wi-Fi
+1280,Case HD
+1281,Mouse Sem Fio
+1281,Filtro de Linha
+1281,Case HD
+1282,Microfone
+1282,Carregador Veicular
+1282,Nobreak
+1282,Pen Drive 64GB
+1282,Notebook
+1282,HD Externo
+1282,Memória RAM
+1282,Notebook Stand
+1282,Fone de Ouvido
+1283,Mouse Sem Fio
+1283,Caixa de Som
+1283,Estabilizador
+1283,Microfone
+1283,Ring Light
+1284,Memória RAM
+1284,HD Externo
+1284,Nobreak
+1285,Microfone
+1285,Mousepad Gamer
+1285,Notebook Stand
+1285,Mouse Sem Fio
+1285,Switch HDMI
+1285,Webcam HD
+1285,Cabo USB-C
+1285,Controle Xbox
+1285,Power Bank
+1285,Cooler
+1286,Caixa de Som
+1286,"Monitor 24"""
+1286,Notebook
+1286,Suporte para Celular
+1286,Fire TV Stick
+1286,Cabo USB-C
+1286,Ring Light
+1287,Impressora
+1287,Óculos VR
+1287,Notebook Stand
+1287,Tablet
+1288,Volante Gamer
+1288,Fire TV Stick
+1288,Controle Bluetooth
+1288,"Monitor 24"""
+1288,Webcam HD
+1288,Mouse Sem Fio
+1288,Notebook Stand
+1289,Óculos VR
+1289,Notebook Stand
+1289,Teclado Mecânico
+1289,Nobreak
+1289,Cooler
+1290,Óculos VR
+1290,Mouse Sem Fio
+1290,Teclado Bluetooth
+1290,Cabo Lightning
+1290,Gamepad
+1290,Lâmpada Inteligente
+1290,Pen Drive 64GB
+1290,Case HD
+1291,Microfone
+1291,Carregador Veicular
+1291,Smartwatch
+1291,"Monitor 24"""
+1291,Controle Bluetooth
+1292,Caixa de Som
+1292,Fire TV Stick
+1292,Notebook
+1292,Microfone
+1292,Teclado Bluetooth
+1293,Base Refrigerada
+1293,Teclado Bluetooth
+1293,Webcam HD
+1293,Fonte 500W
+1293,Teclado Mecânico
+1293,Mouse Sem Fio
+1293,Lâmpada Inteligente
+1293,Power Bank
+1294,Cabo USB-C
+1294,SSD 500GB
+1294,Controle Xbox
+1294,Switch HDMI
+1294,Mouse Sem Fio
+1294,Webcam HD
+1294,Cooler
+1294,Estabilizador
+1294,Volante Gamer
+1294,Notebook Stand
+1295,Nobreak
+1295,Cabo USB-C
+1295,Adaptador HDMI
+1295,Webcam HD
+1295,Teclado Bluetooth
+1295,Case HD
+1295,Placa de Vídeo
+1295,Suporte para Celular
+1295,Óculos VR
+1295,Scanner
+1296,"Monitor 24"""
+1296,Cabo USB-C
+1296,HD Externo
+1297,Pen Drive 64GB
+1297,Mousepad Gamer
+1297,Cooler
+1297,Óculos VR
+1297,Smartwatch
+1297,Adaptador HDMI
+1297,Cabo USB-C
+1298,Teclado Mecânico
+1298,Impressora
+1298,Controle Bluetooth
+1298,Case HD
+1298,Teclado Bluetooth
+1298,Roteador Wi-Fi
+1298,Webcam HD
+1299,Fonte 500W
+1299,Cabo Lightning
+1299,Teclado Mecânico
+1299,Carregador Veicular
+1299,Estabilizador
+1299,Pen Drive 64GB
+1299,Placa de Vídeo
+1300,Pen Drive 64GB
+1300,Filtro de Linha
+1300,Fonte 500W
+1300,Controle PS5
+1300,Memória RAM
+1301,Switch HDMI
+1301,Fone de Ouvido
+1301,Notebook
+1301,Teclado Mecânico
+1301,Controle Xbox
+1301,Estabilizador
+1301,Mousepad Gamer
+1301,Impressora
+1302,Switch HDMI
+1302,SSD 500GB
+1302,Fonte 500W
+1302,Case HD
+1302,Notebook
+1302,Fire TV Stick
+1303,Estabilizador
+1303,Lâmpada Inteligente
+1303,Echo Dot
+1303,Caixa de Som
+1303,Nobreak
+1303,Power Bank
+1303,Controle Xbox
+1304,Mouse Sem Fio
+1304,Volante Gamer
+1304,Carregador
+1304,Pen Drive 64GB
+1304,Notebook Stand
+1304,SSD 500GB
+1304,Echo Dot
+1304,Base Refrigerada
+1304,Tablet
+1304,Hub USB
+1305,Cooler
+1305,Óculos VR
+1305,Controle PS5
+1305,Adaptador HDMI
+1305,Power Bank
+1306,Mousepad Gamer
+1306,Microfone
+1306,Carregador Veicular
+1306,Teclado Bluetooth
+1306,Cadeira Gamer
+1307,Caixa de Som
+1307,Base Refrigerada
+1307,"Monitor 24"""
+1307,Roteador Wi-Fi
+1307,Notebook Stand
+1307,Mousepad Gamer
+1307,HD Externo
+1307,Cadeira Gamer
+1308,Gamepad
+1308,Ring Light
+1308,Fonte 500W
+1309,Caixa de Som
+1309,Pen Drive 64GB
+1309,Cooler
+1309,Switch HDMI
+1309,Controle PS5
+1309,Controle Bluetooth
+1309,Controle Xbox
+1309,Fire TV Stick
+1309,Carregador Veicular
+1310,Fire TV Stick
+1310,Lâmpada Inteligente
+1310,Mousepad Gamer
+1310,Notebook
+1310,Teclado Mecânico
+1310,Power Bank
+1310,Carregador Veicular
+1310,Base Refrigerada
+1310,Caixa de Som
+1310,Tablet
+1311,Carregador
+1311,Mousepad Gamer
+1311,Gamepad
+1311,Fire TV Stick
+1311,Memória RAM
+1311,Estabilizador
+1311,Echo Dot
+1311,Controle PS5
+1312,Cadeira Gamer
+1312,Scanner
+1312,Webcam HD
+1313,Controle PS5
+1313,Microfone
+1313,Power Bank
+1313,Controle Xbox
+1313,Fone de Ouvido
+1313,Mousepad Gamer
+1313,Carregador
+1314,Microfone
+1314,Teclado Bluetooth
+1314,Gamepad
+1314,Mouse Sem Fio
+1314,Ring Light
+1314,Carregador Veicular
+1315,Mousepad Gamer
+1315,Teclado Bluetooth
+1315,Roteador Wi-Fi
+1315,Fonte 500W
+1315,Nobreak
+1315,Óculos VR
+1315,"Monitor 24"""
+1315,Webcam HD
+1315,Cadeira Gamer
+1315,Power Bank
+1316,Hub USB
+1316,Teclado Bluetooth
+1316,Microfone
+1316,HD Externo
+1316,Controle Bluetooth
+1316,Memória RAM
+1316,Carregador Veicular
+1316,Power Bank
+1317,Fone de Ouvido
+1317,Webcam HD
+1317,Óculos VR
+1318,Echo Dot
+1318,Cabo USB-C
+1318,Base Refrigerada
+1318,HD Externo
+1318,Memória RAM
+1318,Carregador Veicular
+1318,Webcam HD
+1318,Cooler
+1319,Pen Drive 64GB
+1319,Power Bank
+1319,Fonte 500W
+1319,Lâmpada Inteligente
+1319,Placa de Vídeo
+1319,Hub USB
+1319,Carregador Veicular
+1319,Filtro de Linha
+1320,Óculos VR
+1320,Switch HDMI
+1320,Lâmpada Inteligente
+1320,Echo Dot
+1320,Notebook
+1320,Microfone
+1320,Hub USB
+1320,"Monitor 24"""
+1320,SSD 500GB
+1320,Placa de Vídeo
+1321,Controle PS5
+1321,Volante Gamer
+1321,Case HD
+1321,Notebook
+1321,Memória RAM
+1321,Echo Dot
+1321,Impressora
+1322,Controle PS5
+1322,Carregador
+1322,Placa de Vídeo
+1322,Echo Dot
+1322,Pen Drive 64GB
+1322,Cabo USB-C
+1323,HD Externo
+1323,Nobreak
+1323,Caixa de Som
+1323,Fone de Ouvido
+1323,Switch HDMI
+1323,"Monitor 24"""
+1323,Controle Bluetooth
+1323,Notebook
+1323,Notebook Stand
+1324,SSD 500GB
+1324,HD Externo
+1324,Mousepad Gamer
+1324,Volante Gamer
+1324,Tablet
+1324,Controle PS5
+1324,Carregador Veicular
+1324,Fonte 500W
+1325,Controle Xbox
+1325,Controle PS5
+1325,Carregador
+1325,Óculos VR
+1325,Webcam HD
+1325,Cabo USB-C
+1325,Tablet
+1325,Teclado Bluetooth
+1325,Cooler
+1325,Echo Dot
+1326,Cooler
+1326,Suporte para Celular
+1326,Base Refrigerada
+1326,Cabo Lightning
+1326,Hub USB
+1326,Óculos VR
+1326,Adaptador HDMI
+1326,Estabilizador
+1326,Impressora
+1327,Controle Bluetooth
+1327,Caixa de Som
+1327,Roteador Wi-Fi
+1327,Teclado Bluetooth
+1327,Lâmpada Inteligente
+1327,Smartwatch
+1327,Volante Gamer
+1327,Gamepad
+1327,Tablet
+1327,Fire TV Stick
+1328,Echo Dot
+1328,Adaptador HDMI
+1328,Teclado Bluetooth
+1328,Roteador Wi-Fi
+1328,Gamepad
+1328,"Monitor 24"""
+1328,Switch HDMI
+1328,Cabo Lightning
+1329,Power Bank
+1329,Adaptador HDMI
+1329,HD Externo
+1329,Gamepad
+1329,Fone de Ouvido
+1329,Óculos VR
+1329,Teclado Mecânico
+1329,Controle Xbox
+1329,Notebook Stand
+1330,Controle Xbox
+1330,Echo Dot
+1330,Tablet
+1330,Controle Bluetooth
+1330,Cabo Lightning
+1330,Roteador Wi-Fi
+1330,Teclado Bluetooth
+1331,Webcam HD
+1331,Cadeira Gamer
+1331,Fonte 500W
+1331,Placa de Vídeo
+1331,Caixa de Som
+1331,Volante Gamer
+1331,Carregador
+1332,Case HD
+1332,Smartwatch
+1332,Carregador
+1332,Cadeira Gamer
+1332,SSD 500GB
+1332,Hub USB
+1333,Cadeira Gamer
+1333,Nobreak
+1333,Webcam HD
+1333,Smartphone
+1333,Teclado Bluetooth
+1333,Pen Drive 64GB
+1333,SSD 500GB
+1333,Estabilizador
+1333,Echo Dot
+1333,Case HD
+1334,Mousepad Gamer
+1334,Gamepad
+1334,Cooler
+1334,Controle Xbox
+1334,Estabilizador
+1334,Carregador
+1335,Estabilizador
+1335,Switch HDMI
+1335,Smartwatch
+1335,Cabo Lightning
+1336,Suporte para Celular
+1336,SSD 500GB
+1336,Fone de Ouvido
+1337,Fire TV Stick
+1337,Suporte para Celular
+1337,Gamepad
+1337,Fone de Ouvido
+1337,Smartphone
+1337,Lâmpada Inteligente
+1337,Switch HDMI
+1337,Memória RAM
+1337,Cadeira Gamer
+1338,Gamepad
+1338,Base Refrigerada
+1338,Estabilizador
+1338,Cabo Lightning
+1338,Cabo USB-C
+1338,Fire TV Stick
+1338,Webcam HD
+1338,Carregador Veicular
+1339,Roteador Wi-Fi
+1339,Controle Bluetooth
+1339,"Monitor 24"""
+1339,Hub USB
+1339,Pen Drive 64GB
+1339,Base Refrigerada
+1339,Estabilizador
+1339,Impressora
+1339,Suporte para Celular
+1339,Smartphone
+1340,Gamepad
+1340,Switch HDMI
+1340,Nobreak
+1340,Controle Bluetooth
+1340,Suporte para Celular
+1340,Fonte 500W
+1340,Case HD
+1340,Power Bank
+1341,Carregador Veicular
+1341,Cooler
+1341,Teclado Mecânico
+1341,Power Bank
+1341,Filtro de Linha
+1341,Cadeira Gamer
+1341,Suporte para Celular
+1341,Webcam HD
+1341,Echo Dot
+1342,Caixa de Som
+1342,Smartphone
+1342,Impressora
+1342,Ring Light
+1342,Mousepad Gamer
+1342,Notebook Stand
+1342,Roteador Wi-Fi
+1342,Hub USB
+1343,Placa de Vídeo
+1343,Controle PS5
+1343,Switch HDMI
+1343,Smartphone
+1343,Impressora
+1343,Estabilizador
+1343,Microfone
+1344,Carregador
+1344,Filtro de Linha
+1344,"Monitor 24"""
+1344,Base Refrigerada
+1344,Lâmpada Inteligente
+1344,Pen Drive 64GB
+1345,Nobreak
+1345,Carregador Veicular
+1345,Óculos VR
+1345,Lâmpada Inteligente
+1345,Volante Gamer
+1345,"Monitor 24"""
+1345,Case HD
+1345,Gamepad
+1345,Microfone
+1346,Smartwatch
+1346,Webcam HD
+1346,Echo Dot
+1346,HD Externo
+1346,Base Refrigerada
+1346,Memória RAM
+1347,SSD 500GB
+1347,Volante Gamer
+1347,Teclado Bluetooth
+1347,Echo Dot
+1347,Cabo Lightning
+1347,Filtro de Linha
+1347,Tablet
+1347,Caixa de Som
+1348,Cabo USB-C
+1348,Notebook Stand
+1348,Óculos VR
+1348,Microfone
+1349,Switch HDMI
+1349,"Monitor 24"""
+1349,Carregador
+1349,Teclado Bluetooth
+1350,Switch HDMI
+1350,Cabo Lightning
+1350,HD Externo
+1350,Pen Drive 64GB
+1350,Cooler
+1350,Cabo USB-C
+1351,"Monitor 24"""
+1351,Nobreak
+1351,Tablet
+1351,Óculos VR
+1351,Placa de Vídeo
+1351,Fire TV Stick
+1351,Teclado Mecânico
+1351,Carregador Veicular
+1351,Notebook Stand
+1351,Carregador
+1352,Webcam HD
+1352,Carregador Veicular
+1352,SSD 500GB
+1352,Base Refrigerada
+1352,Switch HDMI
+1352,Carregador
+1352,Teclado Bluetooth
+1352,Óculos VR
+1352,Lâmpada Inteligente
+1352,Notebook
+1353,Impressora
+1353,Smartphone
+1353,Tablet
+1353,Placa de Vídeo
+1353,Mouse Sem Fio
+1353,Fone de Ouvido
+1353,Scanner
+1353,Adaptador HDMI
+1353,Volante Gamer
+1354,Mouse Sem Fio
+1354,Echo Dot
+1354,Fone de Ouvido
+1355,SSD 500GB
+1355,Suporte para Celular
+1355,Webcam HD
+1355,Estabilizador
+1355,Óculos VR
+1355,Mousepad Gamer
+1355,Microfone
+1356,Notebook Stand
+1356,Ring Light
+1356,Controle Xbox
+1356,Teclado Mecânico
+1356,Nobreak
+1356,Filtro de Linha
+1356,Cabo Lightning
+1356,Webcam HD
+1356,Adaptador HDMI
+1357,Suporte para Celular
+1357,Cabo Lightning
+1357,Power Bank
+1357,Cabo USB-C
+1358,Controle PS5
+1358,Smartwatch
+1358,Smartphone
+1358,Mousepad Gamer
+1358,Notebook
+1359,Base Refrigerada
+1359,Nobreak
+1359,Controle PS5
+1359,Cabo Lightning
+1359,Scanner
+1359,Óculos VR
+1359,Ring Light
+1360,Caixa de Som
+1360,Base Refrigerada
+1360,Adaptador HDMI
+1360,HD Externo
+1360,Roteador Wi-Fi
+1360,Controle Bluetooth
+1361,Fone de Ouvido
+1361,Filtro de Linha
+1361,SSD 500GB
+1361,Fonte 500W
+1362,Caixa de Som
+1362,Tablet
+1362,Mouse Sem Fio
+1363,Memória RAM
+1363,Fone de Ouvido
+1363,Notebook Stand
+1363,Nobreak
+1364,Caixa de Som
+1364,Controle Xbox
+1364,Fone de Ouvido
+1365,Notebook Stand
+1365,Smartwatch
+1365,Cabo Lightning
+1365,Tablet
+1365,Carregador
+1365,Webcam HD
+1365,Carregador Veicular
+1365,Gamepad
+1365,Controle Xbox
+1366,Switch HDMI
+1366,Memória RAM
+1366,Nobreak
+1366,Cooler
+1366,Caixa de Som
+1366,Lâmpada Inteligente
+1366,HD Externo
+1366,Cabo USB-C
+1367,SSD 500GB
+1367,Lâmpada Inteligente
+1367,Roteador Wi-Fi
+1367,Carregador
+1367,Teclado Bluetooth
+1367,Placa de Vídeo
+1368,Case HD
+1368,Nobreak
+1368,Scanner
+1368,Teclado Bluetooth
+1368,Fire TV Stick
+1369,Adaptador HDMI
+1369,Estabilizador
+1369,Filtro de Linha
+1370,Cabo USB-C
+1370,Cooler
+1370,Volante Gamer
+1370,SSD 500GB
+1370,Óculos VR
+1370,HD Externo
+1370,Lâmpada Inteligente
+1370,Ring Light
+1370,Suporte para Celular
+1371,Caixa de Som
+1371,Smartwatch
+1371,Lâmpada Inteligente
+1371,Óculos VR
+1371,HD Externo
+1371,Base Refrigerada
+1371,Carregador
+1371,Teclado Bluetooth
+1371,SSD 500GB
+1371,Case HD
+1372,Ring Light
+1372,Caixa de Som
+1372,Impressora
+1372,Tablet
+1372,Hub USB
+1373,Notebook Stand
+1373,Microfone
+1373,Teclado Mecânico
+1373,Cabo Lightning
+1374,Carregador
+1374,Roteador Wi-Fi
+1374,Ring Light
+1374,Nobreak
+1374,Memória RAM
+1374,Volante Gamer
+1375,Mouse Sem Fio
+1375,Controle Bluetooth
+1375,Mousepad Gamer
+1376,Echo Dot
+1376,Tablet
+1376,Hub USB
+1376,Lâmpada Inteligente
+1376,Smartphone
+1376,Controle Xbox
+1377,Controle Xbox
+1377,"Monitor 24"""
+1377,Echo Dot
+1377,Caixa de Som
+1377,Volante Gamer
+1377,Memória RAM
+1378,Power Bank
+1378,Caixa de Som
+1378,Teclado Bluetooth
+1378,Cooler
+1378,Gamepad
+1378,Ring Light
+1379,Cabo Lightning
+1379,Estabilizador
+1379,Adaptador HDMI
+1379,Lâmpada Inteligente
+1379,Impressora
+1379,Microfone
+1379,Carregador Veicular
+1379,Fire TV Stick
+1379,Base Refrigerada
+1379,Cadeira Gamer
+1380,Mousepad Gamer
+1380,Cooler
+1380,Tablet
+1380,Microfone
+1380,Controle Xbox
+1380,SSD 500GB
+1380,Fone de Ouvido
+1380,Switch HDMI
+1380,Smartwatch
+1380,HD Externo
+1381,Impressora
+1381,Teclado Bluetooth
+1381,Placa de Vídeo
+1382,Gamepad
+1382,HD Externo
+1382,Controle Bluetooth
+1382,Hub USB
+1382,Smartwatch
+1382,Ring Light
+1382,Switch HDMI
+1382,Caixa de Som
+1382,Fire TV Stick
+1383,Impressora
+1383,Fire TV Stick
+1383,Controle PS5
+1383,Estabilizador
+1383,Controle Xbox
+1383,Base Refrigerada
+1383,Pen Drive 64GB
+1383,Adaptador HDMI
+1384,Webcam HD
+1384,Controle PS5
+1384,Cabo Lightning
+1384,Fire TV Stick
+1384,Suporte para Celular
+1385,Cabo USB-C
+1385,Fone de Ouvido
+1385,Mouse Sem Fio
+1386,Mousepad Gamer
+1386,Smartphone
+1386,SSD 500GB
+1387,Case HD
+1387,Smartwatch
+1387,Mouse Sem Fio
+1387,Óculos VR
+1387,HD Externo
+1388,Tablet
+1388,Carregador Veicular
+1388,Base Refrigerada
+1389,Carregador
+1389,Fonte 500W
+1389,Case HD
+1389,Filtro de Linha
+1389,Controle Xbox
+1389,Echo Dot
+1389,Óculos VR
+1389,Fire TV Stick
+1390,Smartphone
+1390,Cabo Lightning
+1390,Teclado Bluetooth
+1391,Smartphone
+1391,Notebook
+1391,Cabo USB-C
+1391,Roteador Wi-Fi
+1391,Cabo Lightning
+1391,Gamepad
+1391,Controle Xbox
+1391,Carregador Veicular
+1391,Scanner
+1392,Cadeira Gamer
+1392,Cabo USB-C
+1392,HD Externo
+1392,Caixa de Som
+1392,Controle Bluetooth
+1393,Adaptador HDMI
+1393,Roteador Wi-Fi
+1393,Power Bank
+1393,Teclado Mecânico
+1393,Microfone
+1393,Controle PS5
+1393,Base Refrigerada
+1394,Volante Gamer
+1394,Smartwatch
+1394,Lâmpada Inteligente
+1394,Nobreak
+1394,Teclado Mecânico
+1394,Estabilizador
+1395,Teclado Mecânico
+1395,Power Bank
+1395,Ring Light
+1396,Teclado Bluetooth
+1396,Echo Dot
+1396,Carregador
+1396,Case HD
+1396,Smartphone
+1396,Pen Drive 64GB
+1396,Teclado Mecânico
+1396,Fire TV Stick
+1396,Scanner
+1397,Switch HDMI
+1397,Cadeira Gamer
+1397,Cabo USB-C
+1397,Fone de Ouvido
+1397,Smartwatch
+1397,Tablet
+1397,Mousepad Gamer
+1397,Echo Dot
+1398,Fone de Ouvido
+1398,Mouse Sem Fio
+1398,Nobreak
+1398,Roteador Wi-Fi
+1398,Cabo Lightning
+1398,Switch HDMI
+1398,Filtro de Linha
+1399,Suporte para Celular
+1399,Cooler
+1399,Notebook
+1400,Placa de Vídeo
+1400,HD Externo
+1400,Óculos VR
+1400,Power Bank
+1400,Mouse Sem Fio
+1400,Lâmpada Inteligente
+1401,Switch HDMI
+1401,Caixa de Som
+1401,Ring Light
+1401,Nobreak
+1401,Cabo Lightning
+1402,Ring Light
+1402,Controle Xbox
+1402,Webcam HD
+1402,Volante Gamer
+1402,Teclado Mecânico
+1402,Carregador Veicular
+1402,Adaptador HDMI
+1402,Carregador
+1403,Scanner
+1403,Smartwatch
+1403,Mouse Sem Fio
+1403,Hub USB
+1404,Cooler
+1404,Notebook
+1404,Case HD
+1404,Roteador Wi-Fi
+1404,Notebook Stand
+1404,Fire TV Stick
+1404,Smartwatch
+1404,Adaptador HDMI
+1404,Teclado Bluetooth
+1405,Scanner
+1405,Suporte para Celular
+1405,Nobreak
+1405,Placa de Vídeo
+1405,Filtro de Linha
+1405,Ring Light
+1405,Teclado Mecânico
+1405,Fonte 500W
+1405,Gamepad
+1406,Óculos VR
+1406,Mouse Sem Fio
+1406,Teclado Mecânico
+1406,Roteador Wi-Fi
+1406,HD Externo
+1406,Ring Light
+1407,Controle Xbox
+1407,Ring Light
+1407,Cooler
+1407,Microfone
+1407,Cadeira Gamer
+1408,Smartphone
+1408,Lâmpada Inteligente
+1408,Notebook Stand
+1408,Microfone
+1409,Cadeira Gamer
+1409,Webcam HD
+1409,Teclado Mecânico
+1409,Suporte para Celular
+1409,Scanner
+1409,Notebook Stand
+1409,Teclado Bluetooth
+1410,Cadeira Gamer
+1410,Notebook
+1410,Teclado Mecânico
+1410,Adaptador HDMI
+1410,Teclado Bluetooth
+1410,Controle PS5
+1410,Memória RAM
+1410,Filtro de Linha
+1410,Cooler
+1411,Smartphone
+1411,Gamepad
+1411,SSD 500GB
+1411,Ring Light
+1411,Teclado Mecânico
+1411,Teclado Bluetooth
+1411,Caixa de Som
+1411,Switch HDMI
+1411,Cabo USB-C
+1412,Nobreak
+1412,Ring Light
+1412,Pen Drive 64GB
+1412,Webcam HD
+1412,Roteador Wi-Fi
+1413,Roteador Wi-Fi
+1413,Fire TV Stick
+1413,HD Externo
+1413,Mouse Sem Fio
+1413,Pen Drive 64GB
+1413,Scanner
+1413,Mousepad Gamer
+1414,Lâmpada Inteligente
+1414,Echo Dot
+1414,Mouse Sem Fio
+1414,Microfone
+1414,Impressora
+1414,Caixa de Som
+1414,Case HD
+1414,Fire TV Stick
+1414,Memória RAM
+1415,Base Refrigerada
+1415,Cadeira Gamer
+1415,Webcam HD
+1415,Lâmpada Inteligente
+1415,Smartphone
+1415,Power Bank
+1416,Fonte 500W
+1416,Ring Light
+1416,Hub USB
+1416,Notebook Stand
+1416,Controle PS5
+1416,Scanner
+1416,Estabilizador
+1416,Memória RAM
+1417,Lâmpada Inteligente
+1417,Cooler
+1417,Memória RAM
+1417,Volante Gamer
+1417,Controle Bluetooth
+1418,Cooler
+1418,Suporte para Celular
+1418,Power Bank
+1418,Mousepad Gamer
+1418,Gamepad
+1418,Case HD
+1418,Fire TV Stick
+1418,Switch HDMI
+1418,Caixa de Som
+1418,Óculos VR
+1419,Roteador Wi-Fi
+1419,Power Bank
+1419,Microfone
+1419,"Monitor 24"""
+1419,Switch HDMI
+1419,Controle Bluetooth
+1419,Placa de Vídeo
+1419,Cabo Lightning
+1419,Suporte para Celular
+1420,Controle PS5
+1420,Base Refrigerada
+1420,Óculos VR
+1421,Notebook Stand
+1421,Gamepad
+1421,Volante Gamer
+1421,Mouse Sem Fio
+1421,SSD 500GB
+1421,Nobreak
+1422,Webcam HD
+1422,Case HD
+1422,Lâmpada Inteligente
+1422,Caixa de Som
+1422,Impressora
+1422,Filtro de Linha
+1422,HD Externo
+1422,Scanner
+1422,Ring Light
+1422,Mouse Sem Fio
+1423,Memória RAM
+1423,Echo Dot
+1423,Placa de Vídeo
+1423,Power Bank
+1423,Cabo Lightning
+1423,Carregador Veicular
+1423,SSD 500GB
+1423,Volante Gamer
+1423,Fone de Ouvido
+1423,Microfone
+1424,Cadeira Gamer
+1424,Caixa de Som
+1424,Filtro de Linha
+1424,Adaptador HDMI
+1425,Estabilizador
+1425,Fonte 500W
+1425,Fone de Ouvido
+1425,Switch HDMI
+1425,Nobreak
+1426,Mousepad Gamer
+1426,Hub USB
+1426,Scanner
+1426,Cadeira Gamer
+1426,Smartphone
+1426,Óculos VR
+1426,Impressora
+1426,Smartwatch
+1426,Carregador Veicular
+1427,Notebook Stand
+1427,Microfone
+1427,Power Bank
+1427,Base Refrigerada
+1427,Nobreak
+1427,Placa de Vídeo
+1428,Adaptador HDMI
+1428,Notebook
+1428,Echo Dot
+1428,Cadeira Gamer
+1428,Gamepad
+1429,Teclado Mecânico
+1429,"Monitor 24"""
+1429,Controle PS5
+1429,HD Externo
+1429,Adaptador HDMI
+1429,Lâmpada Inteligente
+1429,Hub USB
+1429,Base Refrigerada
+1429,Tablet
+1430,Adaptador HDMI
+1430,Echo Dot
+1430,Cadeira Gamer
+1430,Notebook Stand
+1430,Volante Gamer
+1430,Óculos VR
+1430,Cooler
+1430,Mouse Sem Fio
+1430,Lâmpada Inteligente
+1430,Fone de Ouvido
+1431,Notebook
+1431,Hub USB
+1431,Estabilizador
+1431,Cadeira Gamer
+1432,Controle Xbox
+1432,Caixa de Som
+1432,Cabo USB-C
+1432,Suporte para Celular
+1432,Teclado Bluetooth
+1433,Hub USB
+1433,Teclado Bluetooth
+1433,Scanner
+1433,Base Refrigerada
+1433,Smartwatch
+1434,Case HD
+1434,Suporte para Celular
+1434,Controle Xbox
+1434,Mousepad Gamer
+1434,Filtro de Linha
+1434,Scanner
+1434,Power Bank
+1434,Notebook
+1434,Fonte 500W
+1435,Notebook Stand
+1435,Placa de Vídeo
+1435,Scanner
+1435,Ring Light
+1435,Smartphone
+1435,Tablet
+1436,Roteador Wi-Fi
+1436,Óculos VR
+1436,Mouse Sem Fio
+1436,Switch HDMI
+1436,Cadeira Gamer
+1436,Cabo Lightning
+1437,Microfone
+1437,Cooler
+1437,Controle Bluetooth
+1437,Base Refrigerada
+1437,"Monitor 24"""
+1438,Filtro de Linha
+1438,Fire TV Stick
+1438,Cabo USB-C
+1438,Case HD
+1438,Cooler
+1438,Memória RAM
+1438,Ring Light
+1439,Placa de Vídeo
+1439,"Monitor 24"""
+1439,Adaptador HDMI
+1439,Controle PS5
+1439,Base Refrigerada
+1439,Fonte 500W
+1439,Suporte para Celular
+1439,Lâmpada Inteligente
+1439,Nobreak
+1440,Nobreak
+1440,Webcam HD
+1440,Cooler
+1440,"Monitor 24"""
+1441,Lâmpada Inteligente
+1441,"Monitor 24"""
+1441,Suporte para Celular
+1441,Microfone
+1441,Volante Gamer
+1441,HD Externo
+1442,SSD 500GB
+1442,Memória RAM
+1442,Webcam HD
+1442,Switch HDMI
+1442,Ring Light
+1442,Scanner
+1442,Suporte para Celular
+1442,Fire TV Stick
+1442,Case HD
+1443,Teclado Bluetooth
+1443,Pen Drive 64GB
+1443,Fire TV Stick
+1443,Gamepad
+1443,Webcam HD
+1444,Cooler
+1444,Notebook Stand
+1444,Fonte 500W
+1444,Carregador
+1444,Adaptador HDMI
+1445,Fire TV Stick
+1445,Webcam HD
+1445,Controle Bluetooth
+1446,Teclado Bluetooth
+1446,Carregador Veicular
+1446,Estabilizador
+1446,Fire TV Stick
+1446,SSD 500GB
+1446,Nobreak
+1446,Óculos VR
+1446,Volante Gamer
+1446,Notebook Stand
+1447,Pen Drive 64GB
+1447,Teclado Mecânico
+1447,Switch HDMI
+1447,Notebook
+1447,Smartwatch
+1447,Gamepad
+1447,Fone de Ouvido
+1447,Roteador Wi-Fi
+1447,Volante Gamer
+1447,Cabo Lightning
+1448,Pen Drive 64GB
+1448,Base Refrigerada
+1448,Switch HDMI
+1448,Fire TV Stick
+1448,Teclado Bluetooth
+1448,Carregador Veicular
+1448,"Monitor 24"""
+1449,Roteador Wi-Fi
+1449,Cabo Lightning
+1449,Microfone
+1449,Mousepad Gamer
+1450,Mousepad Gamer
+1450,Controle PS5
+1450,Notebook Stand
+1451,Scanner
+1451,Cadeira Gamer
+1451,Estabilizador
+1451,Caixa de Som
+1451,Lâmpada Inteligente
+1451,Fone de Ouvido
+1452,Impressora
+1452,Adaptador HDMI
+1452,Teclado Mecânico
+1452,Notebook Stand
+1452,"Monitor 24"""
+1452,Caixa de Som
+1452,Tablet
+1452,Placa de Vídeo
+1452,Controle Xbox
+1452,Fonte 500W
+1453,Pen Drive 64GB
+1453,Fonte 500W
+1453,Webcam HD
+1453,Tablet
+1453,Óculos VR
+1453,Carregador
+1453,Switch HDMI
+1453,Adaptador HDMI
+1453,Cabo Lightning
+1454,Memória RAM
+1454,Cabo Lightning
+1454,Pen Drive 64GB
+1454,Cooler
+1454,Gamepad
+1454,Volante Gamer
+1454,Switch HDMI
+1455,Carregador Veicular
+1455,Nobreak
+1455,Cadeira Gamer
+1455,Webcam HD
+1455,SSD 500GB
+1455,Carregador
+1455,Roteador Wi-Fi
+1456,Volante Gamer
+1456,Webcam HD
+1456,Caixa de Som
+1456,HD Externo
+1456,Óculos VR
+1457,Caixa de Som
+1457,Nobreak
+1457,Power Bank
+1457,Fire TV Stick
+1457,HD Externo
+1457,Switch HDMI
+1457,Case HD
+1457,Roteador Wi-Fi
+1458,Ring Light
+1458,Notebook Stand
+1458,Mouse Sem Fio
+1458,Case HD
+1458,Teclado Mecânico
+1458,Power Bank
+1458,Carregador Veicular
+1458,Roteador Wi-Fi
+1458,Microfone
+1459,Fire TV Stick
+1459,Cooler
+1459,Placa de Vídeo
+1459,Smartphone
+1459,Teclado Mecânico
+1459,Base Refrigerada
+1459,Case HD
+1459,Adaptador HDMI
+1459,Mouse Sem Fio
+1459,Cabo Lightning
+1460,Tablet
+1460,Scanner
+1460,Mousepad Gamer
+1460,Fire TV Stick
+1460,Roteador Wi-Fi
+1460,Cooler
+1460,Gamepad
+1460,Hub USB
+1460,Teclado Bluetooth
+1461,Switch HDMI
+1461,Fire TV Stick
+1461,Hub USB
+1461,Nobreak
+1461,Mousepad Gamer
+1462,Fone de Ouvido
+1462,Cadeira Gamer
+1462,Case HD
+1463,Notebook
+1463,"Monitor 24"""
+1463,Pen Drive 64GB
+1463,Notebook Stand
+1463,Base Refrigerada
+1463,Smartphone
+1463,Scanner
+1463,Controle Bluetooth
+1463,Webcam HD
+1463,Lâmpada Inteligente
+1464,Roteador Wi-Fi
+1464,Teclado Mecânico
+1464,Estabilizador
+1464,Microfone
+1464,Impressora
+1465,Microfone
+1465,Filtro de Linha
+1465,Estabilizador
+1465,Pen Drive 64GB
+1466,Power Bank
+1466,Case HD
+1466,Lâmpada Inteligente
+1467,Scanner
+1467,Estabilizador
+1467,Teclado Mecânico
+1467,Óculos VR
+1467,Cadeira Gamer
+1467,Smartphone
+1468,Echo Dot
+1468,Mouse Sem Fio
+1468,Webcam HD
+1468,Placa de Vídeo
+1468,Smartwatch
+1468,Cabo USB-C
+1469,Smartphone
+1469,Mousepad Gamer
+1469,Volante Gamer
+1469,Hub USB
+1469,"Monitor 24"""
+1469,Scanner
+1469,Webcam HD
+1469,Echo Dot
+1469,Mouse Sem Fio
+1469,Smartwatch
+1470,Teclado Mecânico
+1470,Controle PS5
+1470,Cadeira Gamer
+1470,Controle Xbox
+1470,Cooler
+1470,Microfone
+1470,Lâmpada Inteligente
+1470,Webcam HD
+1470,Ring Light
+1471,Estabilizador
+1471,Nobreak
+1471,HD Externo
+1471,Mouse Sem Fio
+1471,Cabo USB-C
+1472,Fonte 500W
+1472,Estabilizador
+1472,Pen Drive 64GB
+1473,Adaptador HDMI
+1473,Controle PS5
+1473,Tablet
+1473,Case HD
+1473,HD Externo
+1473,SSD 500GB
+1473,Fonte 500W
+1473,Notebook Stand
+1473,Controle Xbox
+1473,Teclado Mecânico
+1474,Webcam HD
+1474,Mousepad Gamer
+1474,"Monitor 24"""
+1474,Placa de Vídeo
+1475,Adaptador HDMI
+1475,Scanner
+1475,Cooler
+1475,Webcam HD
+1475,Caixa de Som
+1475,Roteador Wi-Fi
+1475,Estabilizador
+1475,Teclado Mecânico
+1475,Volante Gamer
+1476,Volante Gamer
+1476,Notebook
+1476,Filtro de Linha
+1476,Lâmpada Inteligente
+1476,Tablet
+1476,Cabo USB-C
+1476,Memória RAM
+1477,Controle Xbox
+1477,Power Bank
+1477,Gamepad
+1477,Estabilizador
+1477,Carregador
+1477,Caixa de Som
+1478,Ring Light
+1478,"Monitor 24"""
+1478,Caixa de Som
+1478,Fire TV Stick
+1478,Case HD
+1478,Memória RAM
+1478,Mouse Sem Fio
+1478,Cabo USB-C
+1478,Smartphone
+1478,Microfone
+1479,Webcam HD
+1479,Ring Light
+1479,Switch HDMI
+1479,SSD 500GB
+1479,Microfone
+1479,Cabo Lightning
+1479,Suporte para Celular
+1479,Echo Dot
+1480,Notebook
+1480,Placa de Vídeo
+1480,Mouse Sem Fio
+1480,Smartphone
+1481,Tablet
+1481,Fone de Ouvido
+1481,Carregador
+1481,Power Bank
+1481,Carregador Veicular
+1481,Gamepad
+1481,Case HD
+1482,Scanner
+1482,Volante Gamer
+1482,Power Bank
+1482,Teclado Mecânico
+1482,Case HD
+1482,Cabo Lightning
+1482,Nobreak
+1482,Fonte 500W
+1482,HD Externo
+1483,Teclado Mecânico
+1483,Lâmpada Inteligente
+1483,Mousepad Gamer
+1483,Carregador Veicular
+1483,Tablet
+1483,HD Externo
+1483,Cabo Lightning
+1484,Power Bank
+1484,Placa de Vídeo
+1484,Case HD
+1484,Estabilizador
+1484,Nobreak
+1484,Óculos VR
+1484,Mouse Sem Fio
+1484,Lâmpada Inteligente
+1485,Controle PS5
+1485,Caixa de Som
+1485,Carregador
+1485,Controle Xbox
+1485,Teclado Mecânico
+1485,Scanner
+1485,"Monitor 24"""
+1485,Base Refrigerada
+1485,Fonte 500W
+1486,Lâmpada Inteligente
+1486,Filtro de Linha
+1486,Controle Xbox
+1487,"Monitor 24"""
+1487,Smartphone
+1487,Óculos VR
+1487,Webcam HD
+1487,Volante Gamer
+1488,Pen Drive 64GB
+1488,Fire TV Stick
+1488,Adaptador HDMI
+1489,Pen Drive 64GB
+1489,Microfone
+1489,Webcam HD
+1489,Roteador Wi-Fi
+1489,"Monitor 24"""
+1489,Notebook
+1489,Hub USB
+1490,Roteador Wi-Fi
+1490,Cabo USB-C
+1490,Mouse Sem Fio
+1490,Impressora
+1490,Switch HDMI
+1490,Case HD
+1490,Controle PS5
+1490,Fire TV Stick
+1490,Base Refrigerada
+1491,Carregador
+1491,Fire TV Stick
+1491,Switch HDMI
+1491,Pen Drive 64GB
+1491,Microfone
+1491,Óculos VR
+1491,Impressora
+1491,Cadeira Gamer
+1492,Smartwatch
+1492,Controle Xbox
+1492,Carregador Veicular
+1492,Smartphone
+1493,Smartphone
+1493,Caixa de Som
+1493,Fone de Ouvido
+1494,Microfone
+1494,Ring Light
+1494,HD Externo
+1494,Suporte para Celular
+1494,Fone de Ouvido
+1494,Teclado Bluetooth
+1494,Estabilizador
+1494,SSD 500GB
+1494,Smartwatch
+1494,Cooler
+1495,SSD 500GB
+1495,Controle PS5
+1495,Cooler
+1495,Roteador Wi-Fi
+1495,Mouse Sem Fio
+1495,Switch HDMI
+1496,"Monitor 24"""
+1496,Carregador Veicular
+1496,Nobreak
+1496,Carregador
+1496,Suporte para Celular
+1496,Smartwatch
+1496,Cabo USB-C
+1496,Fone de Ouvido
+1497,Mouse Sem Fio
+1497,Base Refrigerada
+1497,Gamepad
+1497,Lâmpada Inteligente
+1497,Cooler
+1497,Teclado Mecânico
+1497,Teclado Bluetooth
+1497,Controle Xbox
+1497,Smartphone
+1498,Controle Bluetooth
+1498,Gamepad
+1498,Switch HDMI
+1498,Lâmpada Inteligente
+1498,Fonte 500W
+1498,Caixa de Som
+1498,Base Refrigerada
+1498,Microfone
+1499,Controle Bluetooth
+1499,Controle PS5
+1499,Cabo Lightning
+1499,Caixa de Som
+1499,HD Externo
+1499,Smartphone
+1499,SSD 500GB
+1499,Notebook
+1499,Smartwatch
+1499,Controle Xbox
+1500,Case HD
+1500,Volante Gamer
+1500,Smartphone
+1500,Hub USB
+1500,Controle PS5
+1500,Filtro de Linha
+1500,Ring Light
+1500,Lâmpada Inteligente
